@@ -1,3 +1,5 @@
+package Mathematics;
+
 public class MathAlgo_GCD {
     public static void main(String[] args) {
 

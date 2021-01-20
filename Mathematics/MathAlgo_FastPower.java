@@ -1,3 +1,5 @@
+package Mathematics;
+
 public class MathAlgo_FastPower {
     public static void main(String[] args) {
 

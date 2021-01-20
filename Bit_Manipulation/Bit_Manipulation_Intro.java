@@ -1,6 +1,8 @@
+package Bit_Manipulation;
+
 import java.util.Scanner;
 
-public class Bit_Manipulation {
+public class Bit_Manipulation_Intro {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
