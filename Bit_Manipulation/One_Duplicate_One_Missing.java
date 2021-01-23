@@ -13,7 +13,7 @@ public class One_Duplicate_One_Missing {
         solution(arr);
     }
 
-    public static void solution(int[] arr) {
+    private static void solution(int[] arr) {
         int xor = 0;
 
 //        through this for loop, we're doing xor operation on the elements of the given array
